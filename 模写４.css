@@ -1,0 +1,31 @@
+/*初期css*/
+.mb { margin-bottom: 1.6px !important; }
+.p { padding: 16px !important;}
+.wm { width: 100% !important; }
+.wh { width: 50% !important; }
+.hm { height: 100% !important; }
+.dib { display: inline-block !important; }
+.df { display: flex !important; flex-wrap: wrap; }
+.container { width: 1000px; }
+#main { margin: 0 auto; }
+#main1 { padding: 3rem 0 5rem 0; }
+/*ここから書く*/
+.img { padding-bottom: 100%; background-size: cover; }
+dt ,h2 ,h3{ font-weight: normal !important; }
+h2 , h3 { background-color: #B99566; color: white; font-size: 1.8rem !important; line-height: 4.2rem !important; padding-left: 2.2rem; }
+.bc { background-color: #F5F3F0; }
+dl div { line-height: 3.6rem; padding-left: 1.4rem; }
+dd { padding-left: 1.3rem; }
+dl span { padding-left: 1.3rem;}
+.absolute { position: absolute; right: 1rem;top: 3.2rem;  font-size: 1.6rem; }
+.absolute a { color: #9c9b98; margin-right: 0.5rem; padding: 0.8rem 2.5rem; border-radius: 0.2rem; transition: 0.15s; }
+.absolute a:hover { background-color: #B99566; color: white;}
+body { font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif; }
+.m12 { margin: 1.2rem 0 1.2rem 0.6rem; }
+.mr12 { margin: 1.2rem 0.6rem 1.2rem 0; } 
+.bl { border-left: 4px solid #000; padding: 0.5rem 1rem;}
+.bl p { font-size: 2rem; padding-bottom: 1rem;}
+.bl span { color: white; margin-right: 1rem; padding: 0.4rem 1rem; border-radius: 0.4rem; background-color: #B99566; font-size: 1.2rem; }
+.r17 { font-size: 1.7rem ; }
+div ul a { border:solid 1px white; color: white; margin: 2rem 1.2rem; font-size: 1.5rem; padding: 0.65rem 3rem; display: inline-block; transition: 0.2s;}
+div ul a:hover { background-color: white; color: #54514C; }
